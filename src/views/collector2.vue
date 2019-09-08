@@ -1,11 +1,11 @@
 <template>
-  <div class="about">
-		about
+  <div class="collector">
+		collector
   </div>
 </template>
 <script>
 	export default {
-		name: 'about',
+		name: 'collector',
 		components: {},
 	
 		created() {}
